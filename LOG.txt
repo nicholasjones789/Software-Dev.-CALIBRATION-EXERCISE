@@ -1,0 +1,9 @@
+8/26/21: 174 minutes: 
+- finished putting usernames into variables
+- finished the outline of my code
+- finished prompting the user for the username
+
+8/29/21: 162 minutes:
+- wrote if statements for the goals, based on username
+- finished prompting the user for the week in the semester
+- finished the if statements for the date of the monday of each week of the semester
